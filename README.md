@@ -1,24 +1,27 @@
 # Professional Goals for 2016
 
-## High-level goals
-1. Get more familiar with DevOps (CI/CD) methods
+## Goals
+1. Get more familiar with DevOps (CI/CD) methods and tools
 2. Microservices Architecture
 3. Work more with AngularJS and Vanilla.js
 4. Improve JS skills
+5. Cloud Technologies (AWS and/or Bluemix).Potential certifications to better understand the technologies and how they fit in DevOps.
 
-
-## Certification Goals
-1. AWS DevOps Professional
-2. IBM Bluemix cloud certification application developer
-
-### This week's focus 12/28
+## 12-27-2015
+### Focus: Prep for 2016
 - [ ] Develop web app template using Node.js. -JS skills
-- [ ] Integrate Travis CI in a github project. -DevOps
+- [x] Integrate Travis CI in a github project. -DevOps
 - [ ] Investigate requirements and training options for AWS cert
 - [ ] Investigate requirements and training options for Bluemix cert
-- [ ] Sign up for Angular.JS training.
-- [ ] Investigate cloud cert hosting options.
+- [ ] Search for Angular.JS training.
+- [ ] Investigate cloud cert hq hosting options.
+- [ ] Setup Docker on local machine. -DevOps
+- [ ] Any good books on DevOps?
 
-## Other future items
+## Future items
 - [ ] Advanced JS course from [Frontend Developers](https://frontendmasters.com/courses/).
 - [ ] Update Github pages with Jekyll template {Personal}.
+- [ ] Google codelabs for [web](https://codelabs.developers.google.com/)
+- [ ] AWS DevOps Professional certification
+- [ ] IBM Bluemix Cloud Platform Application Development certification
+- [ ] Plan to complete PDUs for PMP
