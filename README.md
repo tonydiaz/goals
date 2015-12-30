@@ -25,3 +25,6 @@
 - [ ] AWS DevOps Professional certification
 - [ ] IBM Bluemix Cloud Platform Application Development certification
 - [ ] Plan to complete PDUs for PMP
+- [ ] Try out HackMyResume
+- [ ] Intro to [DevOps](https://www.udacity.com/course/intro-to-devops--ud611) course
+- [ ] JS [Promises](https://www.udacity.com/course/javascript-promises--ud898) course
