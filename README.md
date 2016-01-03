@@ -11,12 +11,12 @@
 ### Focus: Prep for 2016
 - [ ] Develop web app template using Node.js. -JS skills
 - [x] Integrate Travis CI in a github project. -DevOps
-- [ ] Investigate requirements and training options for AWS cert
-- [ ] Investigate requirements and training options for Bluemix cert
-- [ ] Search for Angular.JS training.
+- [x] Investigate requirements and training options for AWS cert
+- [x] Investigate requirements and training options for Bluemix cert
+- [x] Search for Angular.JS training.
 - [ ] Investigate cloud cert hq hosting options.
 - [ ] Setup Docker on local machine. -DevOps
-- [ ] Any good books on DevOps?
+- [x] Any good books on DevOps?
 
 ## Future items
 - [ ] Advanced JS course from [Frontend Developers](https://frontendmasters.com/courses/).
