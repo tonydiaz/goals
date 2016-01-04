@@ -6,21 +6,21 @@
 3. Work more with AngularJS and Vanilla.js
 4. Improve JS skills
 5. Cloud Technologies (AWS and/or Bluemix).Potential certifications to better understand the technologies and how they fit in DevOps.
+6. Build more things
+7. Focus on being active.
 
-## 12-27-2015
-### Focus: Prep for 2016
+## 2016-01-03
+### Focus: Get a rhythm to move forward on goals
 - [ ] Develop web app template using Node.js. -JS skills
-- [x] Integrate Travis CI in a github project. -DevOps
-- [x] Investigate requirements and training options for AWS cert
-- [x] Investigate requirements and training options for Bluemix cert
-- [x] Search for Angular.JS training.
-- [ ] Investigate cloud cert hq hosting options.
+- [ ] Start training on Node.js course
+- [ ] Start reading one of the book in the 2016 list
+- [ ] Develop plan to accomplish IBM bluemix cert.
 - [ ] Setup Docker on local machine. -DevOps
-- [x] Any good books on DevOps?
+
 
 ## Future items
 - [ ] Advanced JS course from [Frontend Developers](https://frontendmasters.com/courses/).
-- [ ] Update Github pages with Jekyll template {Personal}.
+- [x] Update Github pages with Jekyll template {Personal}.
 - [ ] Google codelabs for [web](https://codelabs.developers.google.com/)
 - [ ] AWS DevOps Professional certification
 - [ ] IBM Bluemix Cloud Platform Application Development certification
