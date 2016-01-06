@@ -18,8 +18,10 @@
 
 
 ## Future items
+- [ ] Update Github page with new timeline and 404 page
+- [ ] Add list of posts for github page
 - [ ] Advanced JS course from [Frontend Developers](https://frontendmasters.com/courses/).
-- [x] Update Github pages with Jekyll template {Personal}.
+- [x] Update Github pages with Jekyll template.
 - [ ] Google codelabs for [web](https://codelabs.developers.google.com/)
 - [ ] AWS DevOps Professional certification
 - [ ] IBM Bluemix Cloud Platform Application Development certification
