@@ -7,15 +7,14 @@
 4. Improve JS skills
 5. Cloud Technologies (AWS and/or Bluemix).Potential certifications to better understand the technologies and how they fit in DevOps.
 6. Build more things
-7. Focus on being active.
 
-## 2016-01-03
+### 2016-01-03
 ### Focus: Get a rhythm to move forward on goals
-- [ ] Develop web app template using Node.js. -JS skills
-- [ ] Start training on Node.js course
-- [ ] Start reading one of the book in the 2016 list
-- [ ] Develop plan to accomplish IBM bluemix cert.
-- [ ] Setup Docker on local machine. -DevOps
+- [ ] Develop web app template using Node.js. (JS skills)
+- [x] Start training on Node.js course (JS skills)
+- [x] Start reading one of the book in the 2016 list (DevOps)
+- [ ] Develop plan to accomplish IBM bluemix cert. (Cloud Tech)
+- [ ] Setup Docker on local machine. (DevOps)
 
 
 ## Future items
