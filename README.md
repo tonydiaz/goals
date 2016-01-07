@@ -13,9 +13,8 @@
 - [ ] Develop web app template using Node.js. (JS skills)
 - [x] Start training on Node.js course (JS skills)
 - [x] Start reading one of the book in the 2016 list (DevOps)
-- [ ] Develop plan to accomplish IBM bluemix cert. (Cloud Tech)
+- [x] Develop plan to accomplish IBM bluemix cert. (Cloud Tech)
 - [ ] Setup Docker on local machine. (DevOps)
-
 
 ## Future items
 - [ ] Update Github page with new timeline and 404 page
