@@ -9,3 +9,4 @@
 - [ ] Pragmatic programmer
 - [ ] DevOps: A Software Architect's Perspective
 - [ ] Code complete
+- [ ] Your code as a crime scene
