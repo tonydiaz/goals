@@ -8,8 +8,8 @@
 5. Cloud Technologies (AWS and/or Bluemix).Potential certifications to better understand the technologies and how they fit in DevOps.
 6. Build more things
 
-### 2016-01-10
-### Focus: DevOps and JS, continue the momentum. 
+## 2016-01-10
+### Focus - DevOps and JS, continue the momentum. 
 - [ ] Complete training on Node.js course (JS skills)
 - [ ] Start training on Angular.js course (JS skills)
 - [ ] Complete two chapters in Continuous Delivery (DevOps)
