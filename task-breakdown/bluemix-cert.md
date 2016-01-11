@@ -5,7 +5,7 @@
 The amount or time it will take to become familiar with bluemix and proficient in using it will take a good amount of time. Without any direct training to understand the requirements for the certification I need a plan to get be able to become knowledgeable. The plan will evolve as I become more knowledgeable.
 
 ## Plan for certification:
- - Dedicate 1 hour per weekday to Bluemix certification and 1-2 hours per weekend
+- Dedicate 1 hour per weekday to Bluemix certification and 1-2 hours per weekend
 - [ ] Start with `Getting Started with IBM Bluemix` course
 - [ ] Review Training asset youtube links
 - [ ] Take loud Application Developer Certification Preparation course

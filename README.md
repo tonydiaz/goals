@@ -8,13 +8,15 @@
 5. Cloud Technologies (AWS and/or Bluemix).Potential certifications to better understand the technologies and how they fit in DevOps.
 6. Build more things
 
-### 2016-01-03
-### Focus: Get a rhythm to move forward on goals
-- [ ] Develop web app template using Node.js. (JS skills)
-- [x] Start training on Node.js course (JS skills)
-- [x] Start reading one of the book in the 2016 list (DevOps)
-- [x] Develop plan to accomplish IBM bluemix cert. (Cloud Tech)
-- [ ] Setup Docker on local machine. (DevOps)
+### 2016-01-10
+### Focus: DevOps and JS, continue the momentum. 
+- [ ] Complete training on Node.js course (JS skills)
+- [ ] Start training on Angular.js course (JS skills)
+- [ ] Complete two chapters in Continuous Delivery (DevOps)
+- [ ] Setup Docker on local machine (DevOps)
+- [ ] Determine training options for Docker (DevOps)
+- [ ] Determine when to start cloud certification preparation (Cloud Tech)
+- [ ] Update timeline on Github page
 
 ## Future items
 - [ ] Update Github page with new timeline and 404 page
@@ -28,4 +30,5 @@
 - [ ] Try out HackMyResume
 - [ ] Intro to [DevOps](https://www.udacity.com/course/intro-to-devops--ud611) course
 - [ ] JS [Promises](https://www.udacity.com/course/javascript-promises--ud898) course
-- [ ] Try out VIsual Studio for Node.js
+- [ ] Try out Visual Studio for Node.js
+- [ ] Walk through Node.js API documentation nodejs.org
