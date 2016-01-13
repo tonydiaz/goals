@@ -9,9 +9,9 @@
 6. Build more things
 
 ## 2016-01-10
-### Focus - DevOps and JS, continue the momentum. 
-- [ ] Complete training on Node.js course (JS skills)
-- [ ] Start training on Angular.js course (JS skills)
+### Focus - DevOps and JS, continue the momentum.
+- [x] Complete training on Node.js course (JS skills)
+- [x] Start training on Angular.js course (JS skills)
 - [ ] Complete two chapters in Continuous Delivery (DevOps)
 - [ ] Setup Docker on local machine (DevOps)
 - [ ] Determine training options for Docker (DevOps)
