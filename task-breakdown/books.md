@@ -1,4 +1,4 @@
-#Books / Articles to read
+# Books / Articles to read
 
 - [ ] Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation **(In-progress)**
 - [ ] Building Microservices - O'reilly
@@ -10,3 +10,5 @@
 - [ ] DevOps: A Software Architect's Perspective
 - [ ] Code complete
 - [ ] Your code as a crime scene
+
+# Book Notes/Summary:

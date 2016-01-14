@@ -7,12 +7,14 @@ The amount or time it will take to become familiar with bluemix and proficient i
 ## Plan for certification:
 - Dedicate 1 hour per weekday to Bluemix certification and 1-2 hours per weekend
 - [ ] Start with `Getting Started with IBM Bluemix` course
+- [ ] Take udemy course (9.5 hours)
 - [ ] Review Training asset youtube links
 - [ ] Take loud Application Developer Certification Preparation course
 - [ ] Read Self Study guide
 - [ ] Take Assessment test ($15)
 - [ ] Determine if I can take a test through a local proctor (2 weeks prior to taking exam) https://g01zcidbs005.gho.pok.ibm.com/notesr5/cert/proctor.nsf/ProctorList-NA.pdf
 - [ ] Based on that either continue learning or register for the exam
+
 
 ### Test Signup
 - Request voucher or reimbursement
