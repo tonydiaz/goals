@@ -1,7 +1,7 @@
 # Learning / Training
 
 - [x] Node.js
-- [ ] Angular.js
+- [ ] Angular.js (In progress)
 
 ## Cloud courses
  - [ ] Getting Started with IBM Bluemix
