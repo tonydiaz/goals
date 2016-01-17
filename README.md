@@ -12,13 +12,14 @@
 ### Focus - DevOps and JS, continue the momentum.
 - [x] Complete training on Node.js course (JS skills)
 - [x] Start training on Angular.js course (JS skills)
-- [ ] Complete two chapters in Continuous Delivery (DevOps)
-- [ ] Setup Docker on local machine (DevOps)
-- [ ] Determine training options for Docker (DevOps)
-- [ ] Determine when to start cloud certification preparation (Cloud Tech)
-- [ ] Update timeline on Github page
+- [x] Complete two chapters in Continuous Delivery (DevOps)
+- [x] Determine training options for Docker (DevOps)
+- [x] Determine when to start cloud certification preparation (Cloud Tech)
+- [x] Update timeline on Github page
+- [ ] Take a cut and writing a disclosure for IBM
 
 ## Future items
+- [ ] Setup Docker on local machine (DevOps)
 - [ ] Update Github page with new timeline and 404 page
 - [ ] Add list of posts for github page
 - [ ] Advanced JS course from [Frontend Developers](https://frontendmasters.com/courses/).
