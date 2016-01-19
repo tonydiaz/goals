@@ -13,7 +13,7 @@
 - [ ] Complete two chapters in Continuous Delivery (DevOps)
 - [x] Complete training on Angular.js course (JS skills)
 - [ ] Take a cut and writing a disclosure for IBM (Build things)
-- [ ] Start `Getting Started with IBM Bluemix` course (CLoud Tech)
+- [x] Start `Getting Started with IBM Bluemix` course (Cloud Tech)
 
 ## Future items
 - [ ] Setup Docker on local machine (DevOps)
