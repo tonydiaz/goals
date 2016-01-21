@@ -11,4 +11,5 @@
 - [ ] Code complete
 - [ ] Your code as a crime scene
 
+
 # Book Notes/Summary:

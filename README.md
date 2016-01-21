@@ -30,3 +30,4 @@
 - [ ] JS [Promises](https://www.udacity.com/course/javascript-promises--ud898) course
 - [ ] Try out Visual Studio for Node.js
 - [ ] Walk through Node.js API documentation nodejs.org
+- [ ] Read this: http://12factor.net/
