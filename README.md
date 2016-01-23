@@ -10,9 +10,9 @@
 
 ## 2016-01-18
 ### Focus - Bluemix fundamentals, Keep up the momentum.
-- [ ] Complete two chapters in Continuous Delivery (DevOps)
+- [x] Complete two chapters in Continuous Delivery (DevOps)
 - [x] Complete training on Angular.js course (JS skills)
-- [ ] Take a cut and writing a disclosure for IBM (Build things)
+- [x] Take a cut and writing a disclosure for IBM (Build things)
 - [x] Start `Getting Started with IBM Bluemix` course (Cloud Tech)
 
 ## Future items
