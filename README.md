@@ -17,7 +17,8 @@
 
 ## Future items
 - [ ] Setup Docker on local machine (DevOps)
-- [ ] Update Github page with new timeline and 404 page
+- [x] Update Github page with new timeline and 404 page
+- [ ] Update Github page 404
 - [ ] Add list of posts for github page
 - [ ] Advanced JS course from [Frontend Developers](https://frontendmasters.com/courses/).
 - [x] Update Github pages with Jekyll template.
