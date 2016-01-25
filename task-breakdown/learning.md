@@ -1,12 +1,13 @@
 # Learning / Training
 
 - [x] Node.js
-- [ ] Angular.js (In progress)
+- [x] Angular.js
+- [ ] React.js
 
 ## Cloud courses
- - [ ] Getting Started with IBM Bluemix
+ - [x] Getting Started with IBM Bluemix
  - [ ] Take IBM cloud cert course course (9.5 hours)
+ - [ ] Take Cloud Application Developer Certification Preparation course (15 hours)
 
 ## Future Ideas
-  - Docker
-  - React.js
+- Docker
