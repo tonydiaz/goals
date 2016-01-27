@@ -11,11 +11,11 @@
 ## 2016-01-25
 ### Focus - Bluemix training, exam prep and patent
 - [ ] Complete two chapters in Continuous Delivery (DevOps)
-- [ ] Start Bluemix certification course (Cloud tech)
+- [x] Start Bluemix certification course (Cloud tech)
 - [ ] Review Bluemix practice exam (Cloud tech)
 - [x] Post patent disclosure for review (Build things)
-- [ ] Reach out to cloud exam local proctor (Cloud tech)
-- [ ] Add angular to Node.js template (Angular);
+- [x] Reach out to cloud exam local proctor (Cloud tech)
+- [ ] Add angular.js to Node.js template (Angular);
 - [ ] Develop layout for business page (JS Skills & Angular)
 
 ## Future items
@@ -35,3 +35,5 @@
 - [ ] Try out Visual Studio for Node.js
 - [ ] Walk through Node.js API documentation nodejs.org
 - [x] Read this: http://12factor.net/
+- [ ] Take Technical leaders course
+- [ ] Read through rest of Node.js book
