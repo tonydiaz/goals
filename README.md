@@ -8,15 +8,13 @@
 5. Cloud Technologies (AWS and/or Bluemix). Potential certifications to better understand the technologies and how they fit in DevOps.
 6. Build more things
 
-## 2016-01-25
-### Focus - Bluemix training, exam prep and patent
+## 2016-02-01
+### Focus - Bluemix training, DevOps
 - [ ] Complete two chapters in Continuous Delivery (DevOps)
-- [x] Start Bluemix certification course (Cloud tech)
-- [ ] Review Bluemix practice exam (Cloud tech)
-- [x] Post patent disclosure for review (Build things)
-- [x] Reach out to cloud exam local proctor (Cloud tech)
+- [ ] Complete Bluemix certification course (Cloud tech)
+- [ ] Start the cloud certification course prep from IBM (CLoud tech)
+- [ ] Review Bluemix practice exam (Cloud tech) http://public.dhe.ibm.com/partnerworld/pub/certify/samC5020-285.pdf
 - [ ] Add angular.js to Node.js template (Angular);
-- [ ] Develop layout for business page (JS Skills & Angular)
 
 ## Future items
 - [ ] Setup Docker on local machine (DevOps)
