@@ -10,10 +10,10 @@
 
 ## 2016-02-08
 ### Focus - Get focus back on completing tasks, catch up from last week
-- [ ] Complete one chapter in Continuous Delivery (DevOps)
+- [x] Complete one chapter in Continuous Delivery (DevOps)
 - [x] Complete Bluemix certification course (Cloud tech)
 - [ ] Start the cloud certification course prep from IBM (Cloud tech)
-- [ ] Review Bluemix practice exam (Cloud tech) http://public.dhe.ibm.com/partnerworld/pub/certify/samC5020-285.pdf
+- [x] Review Bluemix practice exam (Cloud tech) http://public.dhe.ibm.com/partnerworld/pub/certify/samC5020-285.pdf
 
 ## Future items
 - [ ] Setup Docker on local machine (DevOps)
@@ -32,5 +32,5 @@
 - [ ] Try out Visual Studio for Node.js
 - [ ] Walk through Node.js API documentation nodejs.org
 - [x] Read this: http://12factor.net/
-- [ ] Take Technical leaders course
+- [ ] Take Technical leaders course (IBM)
 - [ ] Read through rest of Node.js book
