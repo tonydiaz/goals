@@ -8,10 +8,10 @@
 5. Cloud Technologies (AWS and/or Bluemix). Potential certifications to better understand the technologies and how they fit in DevOps.
 6. Build more things
 
-## 2016-02-22
-### Take cloud certification exam; determine the next goal.
-- [x] Take cloud certification exam
-- [x] Determine next goal to achieve
+## 2016-03-07
+### React training; determine the next goal.
+- [ ] Continue ReactJS course
+- [ ] Determine next goal to achieve
 - [ ] Read one chapter in Continuous Deployment
 - [ ] Take on one future item in the list
 
@@ -34,3 +34,4 @@
 - [x] Read this: http://12factor.net/
 - [ ] Take Technical leaders course (IBM)
 - [ ] Read through rest of Node.js book
+- [ ] Try to update resume using new [format](http://simpleprogrammer.com/2015/10/12/jennifer-hay-is-a-technical-resume-expert/)
