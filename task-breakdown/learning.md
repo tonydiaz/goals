@@ -3,6 +3,7 @@
 - [x] Node.js
 - [x] Angular.js
 - [ ] React.js - Course on Udemy
+- [ ] More React.js - http://courses.reactjsprogram.com/courses/reactjsfundamentals
 
 ## Cloud courses
  - [x] Getting Started with IBM Bluemix
