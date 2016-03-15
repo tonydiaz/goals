@@ -8,9 +8,9 @@
 5. Cloud Technologies (AWS and/or Bluemix). Potential certifications to better understand the technologies and how they fit in DevOps.
 6. Build more things
 
-## 2016-03-07
+## 2016-03-14
 ### React training; determine the next goal.
-- [ ] Continue ReactJS course
+- [x] Continue ReactJS course
 - [ ] Determine next goal to achieve
 - [ ] Read one chapter in Continuous Deployment
 - [ ] Take on one future item in the list
