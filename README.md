@@ -35,3 +35,4 @@
 - [ ] Take Technical leaders course (IBM)
 - [ ] Read through rest of Node.js book
 - [ ] Try to update resume using new [format](http://simpleprogrammer.com/2015/10/12/jennifer-hay-is-a-technical-resume-expert/)
+- [ ] Frontend Handbook [link](https://www.gitbook.com/book/frontendmasters/front-end-handbook/details)
