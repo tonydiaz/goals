@@ -8,9 +8,9 @@
 5. Cloud Technologies (AWS and/or Bluemix). Potential certifications to better understand the technologies and how they fit in DevOps.
 6. Build more things
 
-## 2016-03-14
-### React training; determine the next goal.
-- [x] Continue ReactJS course
+## 2016-04-25
+### Starting late in the week.
+- [x] Take one ReactJS course
 - [ ] Determine next goal to achieve
 - [ ] Read one chapter in Continuous Deployment
 - [ ] Take on one future item in the list
@@ -29,10 +29,11 @@
 - [ ] Try out HackMyResume
 - [ ] Intro to [DevOps](https://www.udacity.com/course/intro-to-devops--ud611) course
 - [ ] JS [Promises](https://www.udacity.com/course/javascript-promises--ud898) course
-- [ ] Try out Visual Studio for Node.js
+- [x] Try out Visual Studio for Node.js
 - [ ] Walk through Node.js API documentation nodejs.org
 - [x] Read this: http://12factor.net/
 - [ ] Take Technical leaders course (IBM)
 - [ ] Read through rest of Node.js book
 - [ ] Try to update resume using new [format](http://simpleprogrammer.com/2015/10/12/jennifer-hay-is-a-technical-resume-expert/)
 - [ ] Frontend Handbook [link](https://www.gitbook.com/book/frontendmasters/front-end-handbook/details)
+- [ ] Add SEO to jenkins homepage. {{seo}}
