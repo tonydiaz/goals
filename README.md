@@ -8,11 +8,15 @@
 5. Cloud Technologies (AWS and/or Bluemix). Potential certifications to better understand the technologies and how they fit in DevOps.
 6. Build more things
 
-## 2016-07-10
+## 2016-07-17
 ### Finish up book and React training.
 - [ ] Finished section 5 in ReactJS course
 - [ ] Read one chapter in Continuous Deployment
 - [ ] Design project for districtmash
+ - [ ] Build template using React (Single page app)
+ - [ ] Work on one component for twitter :bird:
+- [ ] Plan to complete PDUs for PMP - Renewal: 11 Jul 2017
+ - [ ] What can I take credit for and what is needed
 
 ## Future items
 - [x] Setup Docker on local machine (DevOps)
@@ -42,6 +46,5 @@
 - [ ] Take Technical leaders course (IBM)
 - [ ] JS [Promises](https://www.udacity.com/course/javascript-promises--ud898) course
 - [ ] Free Code Camp https://www.freecodecamp.com/
-
-
+- [ ] [Progressive web app](https://developers.google.com/web/fundamentals/getting-started/your-first-progressive-web-app/?hl=en)
 #### Just do it (items that should be quick)
