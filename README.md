@@ -10,13 +10,13 @@
 
 ## 2016-07-17
 ### Finish up book and React training.
-- [ ] Finished section 5 in ReactJS course
-- [ ] Read one chapter in Continuous Deployment
+- [ ] Finished section 5 in ReactJS course  
+- [x] Read one chapter in Continuous Deployment
 - [ ] Design project for districtmash
  - [ ] Build template using React (Single page app)
  - [ ] Work on one component for twitter :bird:
-- [ ] Plan to complete PDUs for PMP - Renewal: 11 Jul 2017
- - [ ] What can I take credit for and what is needed
+- [x] Plan to complete PDUs for PMP - Renewal: 11 Jul 2017
+ - [x] What can I take credit for and what is needed
 
 ## Future items
 - [x] Setup Docker on local machine (DevOps)
