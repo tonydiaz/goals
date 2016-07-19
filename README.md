@@ -8,14 +8,11 @@
 5. Cloud Technologies (AWS and/or Bluemix). Potential certifications to better understand the technologies and how they fit in DevOps.
 6. Build more things
 
-## 2016-07-17
-### Finish up book and React training.
-- [ ] Finished section 5 in ReactJS course  
-- [x] Read one chapter in Continuous Deployment
-- [x] Design project for districtmash
- - [ ] Work on one component for twitter :bird:
-- [x] Plan to complete PDUs for PMP - Renewal: 11 Jul 2017
- - [x] What can I take credit for and what is needed
+## 2016-07-24
+### More focus complete section 5 in React training.
+- [ ] Finish section 5 in ReactJS course  
+- [ ] Read one chapter in Continuous Deployment
+- [ ] Work on one component for twitter :bird:
 
 ## Future items
 - [x] Setup Docker on local machine (DevOps)
