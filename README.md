@@ -11,8 +11,9 @@
 ## 2016-07-24
 ### More focus complete section 5 in React training.
 - [ ] Finish section 5 in ReactJS course  
-- [ ] Read one chapter in Continuous Deployment
-- [ ] Work on one component for twitter :bird:
+- [x] Read one chapter in Continuous Deployment
+- [x] Work on simple calculator in React
+- [x] Determine next book to read
 
 ## Future items
 - [x] Setup Docker on local machine (DevOps)
