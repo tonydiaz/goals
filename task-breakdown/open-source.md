@@ -1,0 +1,12 @@
+# Projects
+ - 10 Minute Javascript
+  - README: Simple tasks to increase javascript knowledge. Also this is about the time you would get for interview questions
+  - Palindrome
+  - Fizz Buzz
+  - Regex
+  - Reverse a string
+  -
+ - Simple Todo list web app
+  - Authentication
+  - Git commit and push
+  - One Readme
