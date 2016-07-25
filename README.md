@@ -10,9 +10,9 @@
 
 ## 2016-07-31
 ### More focus complete section 5 in React training.
-- [ ] Finish section 5 in ReactJS course  
+- [x] Finish section 5 in ReactJS course  
 - [ ] Finish section 6 in ReactJS course
-- [ ] Get authorization work got github project
+- [ ] Get authorization working for github project
 
 ## Future items
 - [x] Setup Docker on local machine (DevOps)
