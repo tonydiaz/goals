@@ -12,4 +12,6 @@
 
 ## Future Ideas
 - Docker https://acloud.guru/courses
-- Safari Videos
+- Safari Videos/Tutorials
+- AWS professional certification - Solution Architect
+- AWS professional certification - DevOps
