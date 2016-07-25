@@ -8,12 +8,11 @@
 5. Cloud Technologies (AWS and/or Bluemix). Potential certifications to better understand the technologies and how they fit in DevOps.
 6. Build more things
 
-## 2016-07-24
+## 2016-07-31
 ### More focus complete section 5 in React training.
 - [ ] Finish section 5 in ReactJS course  
-- [x] Read one chapter in Continuous Deployment
-- [x] Work on simple calculator in React
-- [x] Determine next book to read
+- [ ] Finish section 6 in ReactJS course
+- [ ] Get authorization work got github project
 
 ## Future items
 - [x] Setup Docker on local machine (DevOps)
@@ -24,8 +23,8 @@
 - [x] IBM Bluemix Cloud Platform Application Development certification
 - [x] Try out Visual Studio for Node.js
 - [x] Read this: http://12factor.net/
+- [x] Plan to complete PDUs for PMP
 - [ ] AWS DevOps Professional certification
-- [ ] Plan to complete PDUs for PMP
 - [ ] Try out HackMyResume
 - [ ] Try to update resume using new [format](http://simpleprogrammer.com/2015/10/12/jennifer-hay-is-a-technical-resume-expert/) and one page version
 - [ ] Frontend Handbook [link](https://www.gitbook.com/book/frontendmasters/front-end-handbook/details)
