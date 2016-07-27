@@ -1,6 +1,6 @@
 ## Posts
 - [x] Bluemix certification (Preping, Udemy course)
-- [ ] Continuous Deployment book
+- [x] Continuous Deployment book
 - [ ] Breaking up to operation to processes Node.js
 - [ ] Best Atom extensions
 - [ ] Setting up a Jykell home page using Github.com
