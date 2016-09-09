@@ -1,12 +1,13 @@
 # Books / Articles to read
 
 - [x] Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation
-- [ ] Soft skills: The software developer's life manual **In-progress**
+- [x] Soft skills: The software developer's life manual
+- [ ] Clean Code
 - [ ] Building Microservices - O'reilly
 - [ ] Rise of the Robots: Technology and the Threat of a Jobless Future
 - [ ] Essentialism: The Disciplined Pursuit of Less  
 - [ ] Design Patterns
-- [ ] Clean Code
+- [ ] The clean coder
 - [ ] Pragmatic programmer
 - [ ] DevOps: A Software Architect's Perspective
 - [ ] Code complete
