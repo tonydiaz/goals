@@ -8,21 +8,15 @@
 5. Cloud Technologies (AWS and/or Bluemix). Potential certifications to better understand the technologies and how they fit in DevOps.
 6. Build more things
 
-##  2016-09-11
-### More focus complete section 6 in React training.
-- [ ] Complete section 6 in ReactJS course
-- [x] Complete 2 chapters in Soft Skills book
-- [ ] Get authorization working for github project
-- [x] Add PDU courses to next week. Another 5-10 PDUs.
-- [x] Select next book to start reading
-
-### Next week
-- [ ] Work on some PDUs
- - [ ] Time Management - Safari
+##  2016-09-18
+- [x] Work on some PDUs
+ - [x] Time Management - Safari
  - [ ] Agile Development the Role of the scrum master - Safari
- - [ ] Add credit for last PDU
+ - [x] Add credit for last PDU
 - [ ] Read chapter in Clean code
 - [ ] Develop plan for AWS Solution Architect professional exam
+- [ ] Get authorization working for github project
+- [ ] Complete section 6 in ReactJS course - two sections
 
 ## Future items
 - [x] Setup Docker on local machine (DevOps)
