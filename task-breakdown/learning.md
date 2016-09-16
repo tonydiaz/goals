@@ -15,3 +15,16 @@
 - Safari Videos/Tutorials
 - AWS professional certification - Solution Architect
 - AWS professional certification - DevOps
+- NodeSchool.io
+
+#### Other Technologies to look at one day:
+- C# MSD
+- Hadoop
+- Java Stack
+- MEAN Stack
+- LAMP stack
+- Open Stack
+- Knockout / Angular / Node.js
+- SAML Code
+- TOGAF / CISSP / CCSP
+- Python

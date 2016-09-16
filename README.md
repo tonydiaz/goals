@@ -11,10 +11,10 @@
 ##  2016-09-18
 - [x] Work on some PDUs
  - [x] Time Management - Safari
- - [ ] Agile Development the Role of the scrum master - Safari
+ - [ ] Agile Development the Role of the product owner - Safari
  - [x] Add credit for last PDU
 - [ ] Read chapter in Clean code
-- [ ] Develop plan for AWS Solution Architect professional exam
+- [x] Develop plan for AWS Solution Architect professional exam
 - [ ] Get authorization working for github project
 - [ ] Complete section 6 in ReactJS course - two sections
 
@@ -39,7 +39,7 @@
 #### Learning
 - [ ] Advanced JS course from [Frontend Developers](https://frontendmasters.com/courses/).
 - [ ] Google codelabs for [web](https://codelabs.developers.google.com/)
-- [ ] Developer to Architect - https://www.safaribooksonline.com/library/tutorials/developer-to-architect-ots/2446/
+- [ ] Developer to Architect - https://www.safaribook`sonline.com/library/tutorials/developer-to-architect-ots/2446/
 - [ ] Intro to [DevOps](https://www.udacity.com/course/intro-to-devops--ud611) course
 - [ ] Walk through Node.js API documentation nodejs.org
 - [ ] Read through rest of Node.js book
