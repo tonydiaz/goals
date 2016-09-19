@@ -8,15 +8,13 @@
 5. Cloud Technologies (AWS and/or Bluemix). Potential certifications to better understand the technologies and how they fit in DevOps.
 6. Build more things
 
-##  2016-09-18
-- [x] Work on some PDUs
- - [x] Time Management - Safari
- - [ ] Agile Development the Role of the product owner - Safari
- - [x] Add credit for last PDU
-- [ ] Read chapter in Clean code
-- [x] Develop plan for AWS Solution Architect professional exam
-- [ ] Get authorization working for github project
+##  2016-09-25
 - [ ] Complete section 6 in ReactJS course - two sections
+- [ ] Purchase training for AWS certifications
+- [ ] Complete one domain for AWS training
+- [ ] Read chapter in Clean code
+- [ ] Get authorization working for github project
+
 
 ## Future items
 - [x] Setup Docker on local machine (DevOps)
@@ -28,6 +26,7 @@
 - [x] Try out Visual Studio for Node.js
 - [x] Read this: http://12factor.net/
 - [x] Plan to complete PDUs for PMP
+- [ ] AWS Solution Architect Professional certification
 - [ ] AWS DevOps Professional certification
 - [ ] Try out HackMyResume
 - [ ] Try to update resume using new [format](http://simpleprogrammer.com/2015/10/12/jennifer-hay-is-a-technical-resume-expert/) and one page version
@@ -35,6 +34,7 @@
 - [ ] Add SEO to Jekyll homepage. {{seo}}
 - [ ] Rain check on the React course exercise
 - [ ] Generate GH badges app
+- [ ] Finish PDUs for PMP
 
 #### Learning
 - [ ] Advanced JS course from [Frontend Developers](https://frontendmasters.com/courses/).

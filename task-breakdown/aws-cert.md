@@ -16,6 +16,6 @@ Training: https://acloud.guru/courses
 - [ ] Do exam questions
 - [ ] Study one more week
 
-5 week total; Target exam date last week of October
+5 week total; Target exam date last week of October or first week of November
 
 Exam: 170 minutes; 80 questions; $150 half-off
