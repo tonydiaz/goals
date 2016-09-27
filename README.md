@@ -8,13 +8,12 @@
 5. Cloud Technologies (AWS and/or Bluemix). Potential certifications to better understand the technologies and how they fit in DevOps.
 6. Build more things
 
-##  2016-09-25
-- [ ] Complete section 6 in ReactJS course - two sections
-- [ ] Purchase training for AWS certifications
+##  2016-10-02
 - [ ] Complete one domain for AWS training
 - [ ] Read chapter in Clean code
 - [ ] Get authorization working for github project
-
+- [ ] Upload resume to office 365
+- [ ] Try out Trello
 
 ## Future items
 - [x] Setup Docker on local machine (DevOps)
@@ -35,6 +34,11 @@
 - [ ] Rain check on the React course exercise
 - [ ] Generate GH badges app
 - [ ] Finish PDUs for PMP
+- [ ] Finish exercises in React udemy course.
+
+#### Just do it (items that should be quick)
+- [ ] Upload resume to office 365
+- [ ] Try out Trello
 
 #### Learning
 - [ ] Advanced JS course from [Frontend Developers](https://frontendmasters.com/courses/).
@@ -47,4 +51,3 @@
 - [ ] JS [Promises](https://www.udacity.com/course/javascript-promises--ud898) course
 - [ ] Free Code Camp https://www.freecodecamp.com/
 - [ ] [Progressive web app](https://developers.google.com/web/fundamentals/getting-started/your-first-progressive-web-app/?hl=en)
-#### Just do it (items that should be quick)
