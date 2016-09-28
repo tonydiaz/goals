@@ -9,10 +9,11 @@
 6. Build more things
 
 ##  2016-10-02
-- [ ] Complete one domain for AWS training
-- [ ] Read chapter in Clean code
+- [x] Complete domain 1 for AWS training
+- [ ] Complete domain 2 for AWS training
+- [x] Read chapter in Clean code
 - [ ] Get authorization working for github project
-- [ ] Upload resume to office 365
+- [x] Upload resume to office 365
 - [ ] Try out Trello
 
 ## Future items
