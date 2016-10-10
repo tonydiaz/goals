@@ -19,12 +19,12 @@ Training: https://acloud.guru/courses
 5 week total; Target exam date last week of October or first week of November
 
 ### Plan:
-W/O  | Domain
-9/25   1 & 2
-10/2   3 & 4
-10/9   5 & 6
-10/16  7 & 8
-10/23  Study and do practice exams
-10/30  Whitepapers and take exams
+W/O  | Domain:<br>
+9/25   1 & 2<br>
+10/2   3 & 4<br>
+10/9   5 & 6<br>
+10/16  7 & 8<br>
+10/23  Study and do practice exams<br>
+10/30  Whitepapers and take exams<br>
 
 Exam: 170 minutes; 80 questions; $150 half-off
