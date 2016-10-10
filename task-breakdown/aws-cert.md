@@ -10,12 +10,21 @@ Training: https://acloud.guru/courses
 
 ====
 ## AWS Solutions Architect - Professional Plan
-- [ ] Purchase training package from acloud.guru $129
+- [x] Purchase training package from acloud.guru $129
 - [ ] Certified Solutions Architect - Professional. 12 hours; 8 domains
  - [ ] Two domains per week = 4 weeks
 - [ ] Do exam questions
 - [ ] Study one more week
 
 5 week total; Target exam date last week of October or first week of November
+
+### Plan:
+W/O  | Domain
+9/25   1 & 2
+10/2   3 & 4
+10/9   5 & 6
+10/16  7 & 8
+10/23  Study and do practice exams
+10/30  Whitepapers and take exams
 
 Exam: 170 minutes; 80 questions; $150 half-off
