@@ -9,13 +9,17 @@
 6. Build more things
 
 ##  2016-10-16
-- [ ] Complete domain 3 for AWS training
+- [x] Complete domain 2 quiz
+- [x] Complete domain 3 for AWS training
+- [ ] Complete domain 3 quiz
 - [ ] Add domain 3 to cheat sheet and questions that I got wrong
 - [ ] Complete domain 4 for AWS training
+- [ ] Complete domain 4 quiz
 - [ ] Add domain 4 to cheat sheet and questions that I got wrong
 - [ ] Read chapter in Clean code
 - [ ] Digital blog post
 - [ ] Get authorization working for github project
+- [ ] Investigate disclosure and writeup
 
 ## Future items
 - [x] Setup Docker on local machine (DevOps)
