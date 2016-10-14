@@ -15,9 +15,9 @@
 - [x] Add domain 3 to cheat sheet
 - [x] Complete domain 4 for AWS training
 - [ ] Complete domain 4 quiz
-- [ ] Add domain 4 to cheat sheet
+- [x] Add domain 4 to cheat sheet
 - [ ] Read chapter in Clean code
-- [ ] Digital blog post
+- [x] Digital blog post
 - [ ] Get authorization working for github project
 - [ ] Investigate disclosure and writeup
 
