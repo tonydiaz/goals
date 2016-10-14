@@ -11,11 +11,11 @@
 ##  2016-10-16
 - [x] Complete domain 2 quiz
 - [x] Complete domain 3 for AWS training
-- [ ] Complete domain 3 quiz
-- [ ] Add domain 3 to cheat sheet and questions that I got wrong
-- [ ] Complete domain 4 for AWS training
+- [x] Complete domain 3 quiz
+- [x] Add domain 3 to cheat sheet
+- [x] Complete domain 4 for AWS training
 - [ ] Complete domain 4 quiz
-- [ ] Add domain 4 to cheat sheet and questions that I got wrong
+- [ ] Add domain 4 to cheat sheet
 - [ ] Read chapter in Clean code
 - [ ] Digital blog post
 - [ ] Get authorization working for github project
