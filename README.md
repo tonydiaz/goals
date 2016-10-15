@@ -14,7 +14,7 @@
 - [x] Complete domain 3 quiz
 - [x] Add domain 3 to cheat sheet
 - [x] Complete domain 4 for AWS training
-- [ ] Complete domain 4 quiz
+- [x] Complete domain 4 quiz
 - [x] Add domain 4 to cheat sheet
 - [ ] Read chapter in Clean code
 - [x] Digital blog post
