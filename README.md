@@ -8,16 +8,18 @@
 5. Cloud Technologies (AWS and/or Bluemix). Potential certifications to better understand the technologies and how they fit in DevOps.
 6. Build more things
 
-##  2016-10-16
-- [x] Complete domain 2 quiz
-- [x] Complete domain 3 for AWS training
-- [x] Complete domain 3 quiz
-- [x] Add domain 3 to cheat sheet
-- [x] Complete domain 4 for AWS training
-- [x] Complete domain 4 quiz
-- [x] Add domain 4 to cheat sheet
+##  2016-10-23
+- [x] Complete domain 5 quiz
+- [x] Complete domain 6 quiz
+- [ ] Add domain 5 to cheat sheet
+- [ ] Complete domain 6 for AWS training
+- [ ] Complete domain 6 quiz
+- [ ] Add domain 6 to cheat sheet
+- [ ] Complete domain 7 for AWS training
+- [ ] Complete domain 7 quiz
+- [ ] Add domain 7 to cheat sheet
 - [ ] Read chapter in Clean code
-- [x] Digital blog post
+- [ ] Update Digital blog post
 - [ ] Get authorization working for github project
 - [ ] Investigate disclosure and writeup
 
@@ -43,8 +45,8 @@
 - [ ] Finish exercises in React udemy course.
 
 #### Just do it (items that should be quick)
-- [ ] Upload resume to office 365
-- [ ] Try out Trello
+- [x] Upload resume to office 365
+- [x] Try out Trello
 
 #### Learning
 - [ ] Advanced JS course from [Frontend Developers](https://frontendmasters.com/courses/).
