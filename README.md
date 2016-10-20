@@ -11,15 +11,15 @@
 ##  2016-10-23
 - [x] Complete domain 5 quiz
 - [x] Complete domain 6 quiz
-- [ ] Add domain 5 to cheat sheet
-- [ ] Complete domain 6 for AWS training
+- [x] Add domain 5 to cheat sheet
+- [x] Complete domain 6 for AWS training
 - [ ] Complete domain 6 quiz
 - [ ] Add domain 6 to cheat sheet
 - [ ] Complete domain 7 for AWS training
 - [ ] Complete domain 7 quiz
 - [ ] Add domain 7 to cheat sheet
 - [ ] Read chapter in Clean code
-- [ ] Update Digital blog post
+- [ ] Update Digital blog posts
 - [ ] Get authorization working for github project
 - [ ] Investigate disclosure and writeup
 
