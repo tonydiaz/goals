@@ -13,9 +13,9 @@
 - [x] Complete domain 6 quiz
 - [x] Add domain 5 to cheat sheet
 - [x] Complete domain 6 for AWS training
-- [ ] Complete domain 6 quiz
-- [ ] Add domain 6 to cheat sheet
-- [ ] Complete domain 7 for AWS training
+- [x] Complete domain 6 quiz
+- [x] Add domain 6 to cheat sheet
+- [x] Complete domain 7 for AWS training
 - [ ] Complete domain 7 quiz
 - [ ] Add domain 7 to cheat sheet
 - [ ] Read chapter in Clean code
