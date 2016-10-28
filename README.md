@@ -11,9 +11,9 @@
 ##  2016-10-30
 - [x] Complete domain 7 quiz
 - [x] Add domain 7 to cheat sheet
-- [ ] Complete domain 8 for AWS training
-- [ ] Complete domain 8 quiz
-- [ ] Add domain 8 to cheat sheet
+- [x] Complete domain 8 for AWS training
+- [x] Complete domain 8 quiz
+- [x] Add domain 8 to cheat sheet
 - [ ] Clean up cheat sheet and print
 - [ ] Read chapter in Clean code
 - [ ] Update Digital blog post - remaining
