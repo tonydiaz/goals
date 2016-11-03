@@ -8,15 +8,13 @@
 5. Cloud Technologies (AWS and/or Bluemix). Potential certifications to better understand the technologies and how they fit in DevOps.
 6. Build more things
 
-##  2016-10-30
-- [x] Complete domain 7 quiz
-- [x] Add domain 7 to cheat sheet
-- [x] Complete domain 8 for AWS training
-- [x] Complete domain 8 quiz
-- [x] Add domain 8 to cheat sheet
-- [ ] Clean up cheat sheet and print
+##  2016-11-06
+- [ ] Read the suggested whitepapers
+- [ ] Review the incorrect answers in the training and add to cheat sheet
+- [ ] Review items in red
+- [/] Clean up cheat sheet and print
 - [ ] Read chapter in Clean code
-- [ ] Update Digital blog post - remaining
+- [ ] Update Digital blog post - 1 remaining
 - [ ] Get authorization working for github project
 - [ ] Investigate disclosure and writeup
 

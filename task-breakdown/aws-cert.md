@@ -36,8 +36,9 @@ W/O  | Domain:<br>
 10/9   5 & 6<br>
 10/16  7 & 8<br>
 10/23  5, 6 and 7<br>
+10/30  8, Cheat sheet clean up
 
 ## Remaining progress:
-10/30  8, Cheat sheet clean up, read Whitepapers (red items)<br>
-11/6   Study, do AWS practice exam<br>
-11/13  Study and Take exams<br>
+11/6   read whitepapers, and FAQs and red items<br>
+11/13  Study, do AWS practice exam<br>
+11/20  Study and Take exams<br>
