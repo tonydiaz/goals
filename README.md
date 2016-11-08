@@ -8,18 +8,17 @@
 5. Cloud Technologies (AWS and/or Bluemix). Potential certifications to better understand the technologies and how they fit in DevOps.
 6. Build more things
 
-##  2016-11-06
-- [ ] Read the suggested whitepapers
+##  2016-11-13
 - [ ] Review the incorrect answers in the training and add to cheat sheet
 - [ ] Review items in red
-- [/] Clean up cheat sheet and print
+- [ ] Clean up cheat sheet and print
 - [ ] Read chapter in Clean code
 - [ ] Update Digital blog post - 1 remaining
 - [ ] Get authorization working for github project
 - [ ] Investigate disclosure and writeup
 
 ## Future items
-- [x] Setup Docker on local machine (DevOps)
+- [x] Setup Docker on local machine (DevOps)``
 - [x] Update Github page with new timeline and 404 page
 - [x] Update Github page 404
 - [x] Add list of posts for github page
@@ -42,6 +41,7 @@
 #### Just do it (items that should be quick)
 - [x] Upload resume to office 365
 - [x] Try out Trello
+- [ ] Upgrade Github account (after AWS cert)
 
 #### Learning
 - [ ] Advanced JS course from [Frontend Developers](https://frontendmasters.com/courses/).
