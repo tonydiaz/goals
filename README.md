@@ -8,10 +8,12 @@
 5. Cloud Technologies (AWS and/or Bluemix). Potential certifications to better understand the technologies and how they fit in DevOps.
 6. Build more things
 
-##  2016-11-13
-- [ ] Review the incorrect answers in the training and add to cheat sheet
+##  2016-11-13 - AWS cert prep
+- [ ] Print AWS cheat sheet
+- [ ] Prep 1 hour/day (30m review quiz / 30m review cheat sheet, weekend AWS practice exam)
 - [ ] Review items in red
-- [ ] Clean up cheat sheet and print
+
+
 - [ ] Read chapter in Clean code
 - [ ] Update Digital blog post - 1 remaining
 - [ ] Get authorization working for github project
