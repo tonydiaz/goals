@@ -8,19 +8,17 @@
 5. Cloud Technologies (AWS and/or Bluemix). Potential certifications to better understand the technologies and how they fit in DevOps.
 6. Build more things
 
-##  2016-11-13 - AWS cert prep
-- [ ] Print AWS cheat sheet
-- [ ] Prep 1 hour/day (30m review quiz / 30m review cheat sheet, weekend AWS practice exam)
-- [ ] Review items in red
-
-
+##  2016-12-04 - AWS receritfy
+- [ ] Review AWS associate cheat sheet
+- [ ] Take AWS practice exam?
 - [ ] Read chapter in Clean code
 - [ ] Update Digital blog post - 1 remaining
 - [ ] Get authorization working for github project
 - [ ] Investigate disclosure and writeup
+- [ ] Passive Income Ideas (Book, Etsy, Drop Ship, Affiliate)
 
 ## Future items
-- [x] Setup Docker on local machine (DevOps)``
+- [x] Setup Docker on local machine (DevOps)
 - [x] Update Github page with new timeline and 404 page
 - [x] Update Github page 404
 - [x] Add list of posts for github page
