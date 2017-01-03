@@ -4,6 +4,7 @@
 - [x] Angular.js
 - [x] React.js - Course on Udemy
 - [ ] More React.js - http://courses.reactjsprogram.com/courses/reactjsfundamentals
+- [ ] Free code camp - https://github.com/FreeCodeCamp/FreeCodeCamp
 
 ## Cloud courses
  - [x] Getting Started with IBM Bluemix
