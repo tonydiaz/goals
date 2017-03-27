@@ -10,7 +10,7 @@
 
 ## Plan
 - [x] 5 PDUs - Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation
-- [ ] 2 PDUs - Learning Agility - Safari
+- [x] 2 PDUs - Learning Agility - Safari
 - [x] 2 PDUs - Time Management - Safari
 - [ ] 8 PDUs - Agile Development the Role of the product owner - Safari
 - [ ] 3 PDUs - Foster Innovation - Safari

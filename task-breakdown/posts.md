@@ -1,6 +1,12 @@
 ## Posts
 - [x] Bluemix certification (Preping, Udemy course)
 - [x] Continuous Deployment book
+- [ ] AWS recertification processes
+- [ ] 100% testing
+- [ ] 200 lines of less
+- [ ] Owning the full stack
+- [ ] Feeling the pain/DevOps.
+- [ ] Being on call is the new salaried employee
 - [ ] Breaking up to operation to processes Node.js
 - [ ] Best Atom extensions
 - [ ] Setting up a Jykell home page using Github.com
