@@ -27,7 +27,7 @@
 - [ ] Free Code Camp https://www.freecodecamp.com/
 - [ ] [Progressive web app](https://developers.google.com/web/fundamentals/getting-started/your-first-progressive-web-app/?hl=en)
 - [ ] Frontend Handbook [link](https://www.gitbook.com/book/frontendmasters/front-end-handbook/details)
-
+- [ ] Take a course in Golang
 
 
 #### Other Technologies to look at one day:
