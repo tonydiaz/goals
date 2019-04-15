@@ -3,9 +3,16 @@
 - [x] Node.js
 - [x] Angular.js
 - [x] React.js - Course on Udemy
+- [ ] Sass advanced training (Udemy)
 - [ ] More React.js - http://courses.reactjsprogram.com/courses/reactjsfundamentals
 - [ ] Free code camp - https://github.com/FreeCodeCamp/FreeCodeCamp
+- [ ] Vue.js
+- [ ] Redux
+- [ ] Golang
 
+ - https://egghead.io/courses/getting-started-with-redux
+ - https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0
+ -
 ## Cloud courses
  - [x] Getting Started with IBM Bluemix
  - [x] Take IBM cloud cert course course (9.5 hours)
@@ -41,3 +48,12 @@
 - SAML Code
 - TOGAF / CISSP / CCSP
 - Python
+
+
+### Plan during time off
+
+Thanksgiving week
+11/19 - Advanced Sass training
+11/20 - Advanced Sass training
+11/21 - Go programming
+11/21 - React native

@@ -13,7 +13,7 @@ Training: https://acloud.guru/courses
 - [ ] Linux academy training
 - [x] Purchase training package from acloud.guru $129
 - [x] Certified Solutions Architect - Professional. 12 hours; 8 domains
- - [x] Two domains per week = 4 weeks
+- [x] Two domains per week = 4 weeks
 - [x] Do exam questions
 - [x] Study one more week
 

@@ -6,7 +6,8 @@
 3. Read more
 
 ## 2017-07-09 - General learning
-- [] Determine next learning opportunity
+- [ ] Determine next learning opportunity
+- [ ] Setup plan to post more.
 
 
 ## Future items

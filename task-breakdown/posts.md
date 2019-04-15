@@ -1,14 +1,22 @@
 ## Posts
 - [x] Bluemix certification (Preping, Udemy course)
 - [x] Continuous Deployment book
+- [x] 2 PR rule on dev.to
+- [x] React native Watson assistant
 - [ ] AWS recertification processes
 - [ ] 100% testing
-- [ ] 200 lines of less
+- [ ] 200 lines or less
 - [ ] Owning the full stack
 - [ ] Feeling the pain/DevOps.
 - [ ] Being on call is the new salaried employee
 - [ ] Breaking up to operation to processes Node.js
-- [ ] Best Atom extensions
+- [ ] Best Atom/VS Code extensions
 - [ ] Setting up a Jykell home page using Github.com
 - [ ] Prep for Interview Book, resources.
 - [ ] So many online resources so little time
+
+- [ ] Portals in React
+- [ ] React2Angular
+- [ ] Porting a legacy application from Angular 1 to React.
+ - [ ] Overview, package found that does the magic, steps View, controller
+ - [ ] Part 2 examples, Create a component. Pass callbacks
